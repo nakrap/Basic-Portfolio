@@ -74,7 +74,7 @@ hr {
     border: none;
     padding-bottom: 30px;
     border-top: 3px solid #cccccc;
-    margin: auto;
+    margin: auto; 
 }
 
 .content {
@@ -84,6 +84,7 @@ hr {
     background-color: #ffffff;
     border: 1px solid #dddddd;
     padding: 30px;
+    margin-bottom: 200px;
 }
 
 #profilePic {
